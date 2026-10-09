@@ -27,7 +27,7 @@ The dataset used in this project has been extracted from **Kaggle**, an open-sou
 This was performed using **Power Query** to clean and prepare the datasets. This involved removing duplicates, handling missing values, changing data types, and reporting data into a structured format. The cleaned datasets were then ready for further analysis.
 
 ### Puma Sales Dataset (Dataset_1)
-[Unprocessed File](https://github.com/lakshita-03/PUMA/blob/main/data/Puma-Dashboard-START.csv)
+[Unprocessed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Puma-Dashboard-START.csv)
 
 [Processed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Dataset_1.csv)
 
