@@ -42,9 +42,9 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 <br><br>
 
 ### Competitor Sales Dataset (Dataset_2)
-[Unprocessed File](https://github.com/lakshita-03/PUMA/blob/main/data/Comp_old.csv)
+[Unprocessed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Comp_old.csv)
 
-[Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Competitor.csv)
+[Processed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Competitor.csv)
 
 ### **Uncleaned Data**
 <img src="pictures/com_1.png" width="100%">
