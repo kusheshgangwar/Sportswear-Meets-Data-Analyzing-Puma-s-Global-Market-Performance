@@ -29,7 +29,7 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 ### Puma Sales Dataset (Dataset_1)
 [Unprocessed File](https://github.com/lakshita-03/PUMA/blob/main/data/Puma-Dashboard-START.csv)
 
-[Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Dataset_1.csv)
+[Processed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Dataset_1.csv)
 
 ### **Uncleaned Data**
 <img src="pictures/data 1_p1.png" width="100%">
