@@ -21,15 +21,15 @@
 
 ## 2. Data Description and Processing
 - ### Data Sources
-The dataset used in this project has been extracted from **Kaggle**, an open-source data platform. The dataset contains Puma's sales records, including product details, categories, pricing, units so[...]
+The dataset used in this project has been extracted from **Kaggle**, an open-source data platform. The dataset contains Puma's sales records, including product details, categories, pricing, units so[.[...]
 
 - ### Data Wrangling
 This was performed using **Power Query** to clean and prepare the datasets. This involved removing duplicates, handling missing values, changing data types, and reporting data into a structured format[...]
 
 ### Puma Sales Dataset (Dataset_1)
-[Unprocessed File](https://github.com/lakshita-03/PUMA/blob/main/data/Puma-Dashboard-START.csv)
+[Unprocessed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Puma-Dashboard-START.csv)
 
-[Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Dataset_1.csv)
+[Processed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Dataset_1.csv)
 
 ### **Uncleaned Data**
 <img src="pictures/data 1_p1.png" width="100%">
@@ -42,9 +42,9 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 <br><br>
 
 ### Competitor Sales Dataset (Dataset_2)
-[Unprocessed File](https://github.com/lakshita-03/PUMA/blob/main/data/Comp_old.csv)
+[Unprocessed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Comp_old.csv)
 
-[Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Competitor.csv)
+[Processed File](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance/blob/main/data/Competitor.csv)
 
 ### **Uncleaned Data**
 <img src="pictures/com_1.png" width="100%">
@@ -151,7 +151,7 @@ However, price-gap charts show Puma leaves money on the table in premium categor
 
 ## 5. Visualization & Dashboards
 
-<iframe title="PUMA_1" width="1000" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiM2UwNDdjZTMtODA3Ny00OGFkLWIwYWYtZDJiYjQyNzBhNTY5IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" allowFullScreen="true"></iframe>
+<iframe title="PUMA_1" width="1000" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiM2UwNDdjZTMtODA3Ny00OGFkLWIwYWYtZDJiYjQyNzBhNTY5IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9"></iframe>
 <br>
 
 ## 6. Business Recommendations
@@ -188,6 +188,6 @@ However, price-gap charts show Puma leaves money on the table in premium categor
     - **Action:** Experimenting with limited-edition drops and targeted price promotions. Measuring whether sales are incremental or cannibalizing existing products.
 
 ## 7. Conclusion
-This project provided a comprehensive analysis of Puma's U.S. sales performance and its competitive positioning against major brands. Through exploratory data analysis and competitor benchmarking, w[...]
+This project provided a comprehensive analysis of Puma's U.S. sales performance and its competitive positioning against major brands. Through exploratory data analysis and competitor benchmarking, w[.[...]
 
 [Github Link](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance)
